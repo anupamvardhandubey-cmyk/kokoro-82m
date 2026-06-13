@@ -3,4 +3,6 @@ torch
 transformers
 scipy
 soundfile
+flask
 google-generativeai
+gunicorn
