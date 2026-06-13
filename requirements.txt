@@ -3,3 +3,4 @@ torch
 transformers
 scipy
 soundfile
+google-generativeai
